@@ -15,3 +15,11 @@
     "dotenv": "^16.4.5"
   }
 }
+
+{
+  "dependencies": {
+    "@google-cloud/firestore": "^6.6.3",
+    "@google-cloud/secret-manager": "^4.6.0",
+    "axios": "^1.4.0"        // or keep your existing HTTP client
+  }
+}
